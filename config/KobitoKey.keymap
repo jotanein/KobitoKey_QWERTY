@@ -10,7 +10,7 @@
 
         combo_eisu {
             timeout-ms = <50>;
-            key-positions = <8 9>;
+            key-positions = <8 7>;
             bindings = <&kp LANG2>;
         };
 
